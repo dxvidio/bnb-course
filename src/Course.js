@@ -26,7 +26,7 @@ function Course() {
                src="https://www.youtube.com/embed/Vzn_YQmt9iQ?si=qEz8n4lbt8D2UclI" 
                title="YouTube video player" 
                frameborder="0" 
-               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" 
                referrerpolicy="strict-origin-when-cross-origin" 
                allowfullscreen
             />
