@@ -25,7 +25,7 @@ function Homepage() {
                <div className='header-text'>
                   <div className='title'>
                      How To Start And Grow A 
-                     £4-8K/Month Airbnb Business In 2024
+                     $10K/Month <span className="important">Airbnb Business In 2024</span>
                   </div>
                   <div className='subtitle'>
                      <br />

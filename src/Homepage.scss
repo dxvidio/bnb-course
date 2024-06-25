@@ -19,6 +19,13 @@ html, body {
 	width: 100%;
 }
 
+NavLink {
+   cursor: pointer;
+}
+Button {
+   cursor: pointer;
+}
+
 .nav-bar {
    height: 170px;
    background-color: black;
@@ -28,9 +35,6 @@ html, body {
    img {
       width: 150px;
       height: 150px;
-   }
-   .logo {
-      cursor: pointer;
    }
 }
 /* mobile */
@@ -106,6 +110,9 @@ html, body {
    .title {
       font-size: 36px;
       font-weight: 700;
+      span {
+         color:#1c7cdc;
+      }
    }
    .subtitle {
       font-size: 18px;
