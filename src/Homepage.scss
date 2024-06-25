@@ -65,7 +65,7 @@ Button {
 @media (max-width: 549px) {
 	.header {
       flex-direction: column;
-      height: 763px;
+      height: 860px;
       padding: 0vw 0vw 0vw 0vw;
    }
 }
@@ -84,11 +84,11 @@ Button {
 @media (max-width: 549px) {
 	.header-left {
       width: 100vw;
-      height: 348px;
+      height: 400px;
       padding: 30px 0px 0px 0px;
       img {
-         width: 290px;
-         border-radius: 10%;
+         width: 85vw;
+         border-radius: 0%;
       }
    }
 }
