@@ -12,7 +12,7 @@
     background-repeat: no-repeat; 
     iframe {
         width: 52vw;
-        height: 28vw;
+        height: 30vw;
     }
     .course-header {
         font-size: 36px;
@@ -39,18 +39,18 @@
         padding-bottom: 30px;
         iframe {
             width: 85vw;
-            height: 49vw;
+            height: 52vw;
         }
         .course-header {
-            font-size: 20px;
+            font-size: 30px;
             width: 90vw;
-            padding-bottom: 40px;
+            padding-bottom: 15px;
             span {
                 color: #1c7cdc;
             }
         }
         .course-subheader {
-            font-size: 15px;
+            font-size: 20px;
             font-weight: 500;
             width: 90vw;
             text-align: center;
@@ -98,8 +98,9 @@
     .cal-link {
         height: 60px;
         Button {
-            width: 80vw;
-            height: 40px;
+            width: 75vw;
+            height: 50px;
+            font-size: 18px;
         }
     }
 }

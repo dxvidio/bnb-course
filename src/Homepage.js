@@ -32,8 +32,8 @@ function Homepage() {
                      In this free training, I'll reveal the exact method I've used to grow a 7-figure 
                      Airbnb business at 26 without owning a single property or any previous experience.
                      <br /> <br />
-                     In less than 2 years I went from working a 9-5 to building a portfolio of 19+ properties 
-                     that are generating more than <strong>$25,000/month</strong> in net profit.
+                     In under 2 years I went from working a 9-5 to building a portfolio of 19+ properties 
+                     that generate more than <span className="important"><strong>$25,000/month in net profit</strong></span>.
                      <br /> <br /> <br />
                      <NavLink to="/course">
                         <Button variant="contained" size="large" disableElevation>

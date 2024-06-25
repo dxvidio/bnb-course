@@ -10,6 +10,9 @@ html, body {
 	display: block;
    font-family: $font-family;
 }
+span {
+   color:#1c7cdc;
+}
 
 .home-page {
    display: block;
@@ -110,9 +113,6 @@ Button {
    .title {
       font-size: 36px;
       font-weight: 700;
-      span {
-         color:#1c7cdc;
-      }
    }
    .subtitle {
       font-size: 18px;
@@ -121,6 +121,7 @@ Button {
          height: 65px;
          font-family: $font-family;
          font-size: 20px;
+         font-weight: 600;
          cursor: pointer;
       }
    }
@@ -128,16 +129,16 @@ Button {
 /* mobile */
 @media (max-width: 549px) {
 	.header-text {
-      width: 90vw;
+      width: 92vw;
       padding: 0vw 5vw 0vw 5vw;
       .title {
-         font-size: 23px;
-         font-weight: 600;
+         font-size: 30px;
+         font-weight: 700;
          text-align: center;
       }
       .subtitle {
          width: fit-content;
-         font-size: 14px;
+         font-size: 16px;
          text-align: center;
          Button {
             width: 200px;
@@ -170,7 +171,7 @@ Button {
 @media (max-width: 549px) {
 	.overview-title {
       height: 200px;
-      padding: 30px 0px 0px 0px;
+      padding: 80px 0px 0px 0px;
       .overview-bg {
          width: 80vw;
          height: 120px;

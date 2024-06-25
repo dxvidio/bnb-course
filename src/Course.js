@@ -43,7 +43,7 @@ function Course() {
          <div className='cal-link'>
             <a href="https://calendly.com/jonathanleebnb/consultation-call" target="_blank" rel="noreferrer">
                <Button variant="contained" size="large" disableElevation>
-                  BOOK A CONSULTATION
+                  BOOK YOUR CONSULTATION
                </Button>
             </a>
          </div>
