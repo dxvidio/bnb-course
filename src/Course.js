@@ -23,7 +23,7 @@ function Course() {
                WITHOUT Owning a Single Property and Without Any Prior Experience
             </div>
             <iframe 
-               src="https://www.youtube.com/embed/t4z7Ly-5kxg?si=ch_DWLV42ahSWWnj" 
+               src="https://www.youtube.com/embed/Vzn_YQmt9iQ?si=qEz8n4lbt8D2UclI" 
                title="YouTube video player" 
                frameborder="0" 
                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
